@@ -842,15 +842,6 @@ main h2 {
     filter: brightness(50%);
 
 }
-.photoCardGrid::after {
-  content: url(./assets/img/Rectangle.png);
-  opacity: 0.5;
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  left: 0;
-  display: block;
-}
 
 .photoCardGrid {
     top: -54% !important;
